@@ -7,4 +7,4 @@ config = loadfile('./config.json')
 
 print(originalpreset.keys())
 print(originalpreset["levels"].keys())
-print(originalpreset["presets"])
+#print(originalpreset["presets"])
