@@ -9,7 +9,7 @@ __pycache__/
 # Project file
 config.json
 Presets.json
-
+output/*
 
 
 # Distribution / packaging
